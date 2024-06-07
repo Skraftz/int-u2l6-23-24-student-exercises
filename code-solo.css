@@ -16,18 +16,126 @@
 
 
 /** Styling for the items of Sample 1 **/
-.item-1 {
-    margin: 5px;
-    padding: 5px;
-    border: 2px solid black;
-    background: orange;
-}
+.sample-1{display: flex;
+    justify-content: flex-start;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+.item-1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{margin: 5px;padding: 5px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+border: 2px solid black;
+
+
+
+
+                background: orange;
+
+
+
+        }
 
 /** Styling for the items of Sample 2  **/
-.item-2 {
-    margin: 5px;
-    padding: 5px;
-    border: 2px solid black;
-    background: violet;
-
-}
+                .sample-2{display   :flex                          ;
+justify-content                             :            space-between;                     }
+        .item-2 {margin: 5px;
+padding: 5px    ;border:
+        2px   
+    solid
+black
+ ;background:
+     violet;width: 
+100%;border-radius
+: 20px
+        ;}

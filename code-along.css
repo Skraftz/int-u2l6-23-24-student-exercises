@@ -10,7 +10,7 @@
 
 /* 4. The pics are too close to each other. Add 5px of margin to each one. */
 
-
+.header {border: 5px solid black; border-radius: 15px;}
 .row1 {
     display: flex;
     justify-content: center;
@@ -28,7 +28,6 @@ body {
 }
 
 h1 {
-    border-bottom: 2px solid #f1f1f1;
     width: 30%;
     padding: 20px;
     font-family: 'Raleway', sans-serif;
@@ -37,4 +36,8 @@ h1 {
 
 img {
     width: 200px;
+    border: 5px solid yellow;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 15px;
 }
